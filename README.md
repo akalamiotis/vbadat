@@ -1,2 +1,2 @@
 # vbadat
-Import, analyse and visualise text file using VBA
+This project aims to provide a simple way to import multiple text files using VBA.
